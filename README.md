@@ -9,7 +9,7 @@
 - 机械组的同学们，学长学姐已经默认你们这一学期已经学到了SolidWorks等3D建模软件的绘图功能以及BambuStudio的基础参数设置，这两个软件功能还不太熟练的同学请先从b站上自学相应的内容，方便后续任务的完成
 - TASK1：**环境搭建**\
   良好的开端是成功的一半，请确保你的电脑上已经有SolidWorks（2024版，一定要是这个版本，不然学长学姐们打不开你的文件）和BambuStudio两款软件，还没有下载的同学可以参考以下资料:  
-  Solidworks（2024版）一键下载：https://www.bilibili.com/video/BV14rDwYnEpe/?spm_id_from=333.337.search-card.all.click&vd_source=fcc63609845574c1206cec5c666affba
+  Solidworks（2024版）一键下载：https://www.bilibili.com/video/BV14rDwYnEpe/?spm_id_from=333.337.search-card.all.click&vd_source=fcc63609845574c1206cec5c666affba  
   BambuStudio请自行到拓竹官网上进行下载
 - TASK2：**基础任务**  
   - TASK2.0：**机械小狗的建模与装配**
