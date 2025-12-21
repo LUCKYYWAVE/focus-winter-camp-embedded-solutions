@@ -10,6 +10,7 @@
 - TASK1：**环境搭建**\
   良好的开端是成功的一半，请确保你的电脑上已经有SolidWorks（2024版，一定要是这个版本，不然学长学姐们打不开你的文件）和BambuStudio两款软件，还没有下载的同学可以参考以下资料:
   Solidworks（2024版）一键下载：https://www.bilibili.com/video/BV14rDwYnEpe/?spm_id_from=333.337.search-card.all.click&vd_source=fcc63609845574c1206cec5c666affba
+
   Bambu Studio请自行到拓竹官网上进行下载
 - TASK2：**基础任务**  
   - TASK2.0：**机械小狗的建模与装配**
@@ -21,9 +22,9 @@
     - TASK 2.0.1：**机械小狗的装配**\
       单个零件并没有什么作用，他们装配起来才是一个完整的机构。你需要把所有的零件装配成一个装配体，并进行干涉检查
       最后，将“小狗本体特征树截图”、“装配体打包”以及“干涉检查截图”与软件组一起上传在git地址里
-      ![小狗本体特征树截图](./images/1.png)
-      ![装配体打包](./images/2.png)
-      ![干涉检查截图](./images/3.png)
+      ![小狗本体特征树截图](./machine/2.png)
+      ![装配体打包](./machine/3.png)
+      ![干涉检查截图](./machine/1.png)
   - TASK2.1 **小狗本体的3D打印**\
     先前没有使用过BambuStudio的小伙伴请从b站上学习完相应3D打印知识后再进行小狗本体等3D打印
 - TASK3：**附加任务**\
